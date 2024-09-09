@@ -10,18 +10,21 @@
 
 - **Details Page**
 
-![ss-mob-2](https://github.com/user-attachments/assets/1a588d4e-79cb-4936-81fe-f6a3d3e13246)
+![ss-mob-2 (1)](https://github.com/user-attachments/assets/440a4947-02ff-4151-b1f2-0f0c97c9165d)
+
 
 
 ### Desktop Version :desktop_computer:
 
 - **Home Page**
 
-![ss-desktop-1](https://github.com/user-attachments/assets/c56122a4-f20e-462b-a40d-b343b17686d6)
+![ss-desktop-1 (1)](https://github.com/user-attachments/assets/a659d8b3-95d7-47f8-b283-cddca47ae341)
+
 
 
 - **Details Page**
 
-![ss-desktop-2](https://github.com/user-attachments/assets/dacf26a8-b46b-4687-b211-71c2b5c9166e)
+![ss-desktop-2 (1)](https://github.com/user-attachments/assets/5135acb7-2326-4d46-a4dc-27b9a1f52dec)
+
 
 
