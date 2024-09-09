@@ -4,7 +4,8 @@
 
 - **Home Page**
 
-![ss-mob-1](https://github.com/user-attachments/assets/ad9fb2ae-35ac-4c7d-b803-e53b8a119761)
+![ss-mob-1 (1)](https://github.com/user-attachments/assets/3187f3ad-eb85-4ef0-a8ae-42baafd1bcff)
+
 
 
 - **Details Page**
