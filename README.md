@@ -21,5 +21,6 @@
 
 - **Details Page**
 
-![Uploading ss-desktop-2.png…]()
+![ss-desktop-2](https://github.com/user-attachments/assets/dacf26a8-b46b-4687-b211-71c2b5c9166e)
+
 
